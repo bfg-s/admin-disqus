@@ -1,0 +1,47 @@
+{
+    "name": "bfg/admin-disqus",
+    "description": "Disqus package for Laravel Admin by BFG",
+    "type": "bfg-library",
+    "keywords": [
+        "laravel",
+        "admin",
+        "lte",
+        "bfg",
+        "wood",
+        "disqus"
+    ],
+    "homepage": "https://packagist.org/packages/bfg/admin-disqus",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bfg",
+            "email": "bfg.script@gmail.com"
+        }
+    ],
+    "prefer-stable": true,
+    "require": {
+        "php": "^8.0|^8.1"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "AdminDisqus\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "autoload-dev": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AdminDisqus\\ServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    }
+}
