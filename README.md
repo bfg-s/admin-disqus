@@ -12,3 +12,7 @@
 ```
 composer require bfg/admin-disqus
 ```
+# Admin install
+```
+php artisan admin:extension bfg/admin-disqus --install
+```
