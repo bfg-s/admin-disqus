@@ -3,9 +3,9 @@
 </a></p>
 
 <p align="center">
-<a href="https://packagist.org/packages/bfg/admin"><img src="https://img.shields.io/packagist/dt/bfg/admin" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/bfg/admin"><img src="https://img.shields.io/packagist/v/bfg/admin" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/bfg/admin"><img src="https://img.shields.io/packagist/l/bfg/admin" alt="License"></a>
+<a href="https://packagist.org/packages/bfg/admin-disqus"><img src="https://img.shields.io/packagist/dt/bfg/admin-disqus" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/bfg/admin-disqus"><img src="https://img.shields.io/packagist/v/bfg/admin-disqus" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/bfg/admin-disqus"><img src="https://img.shields.io/packagist/l/bfg/admin-disqus" alt="License"></a>
 </p>
 
 # Install
