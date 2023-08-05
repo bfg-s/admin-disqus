@@ -1,7 +1,7 @@
 {
     "name": "bfg/admin-disqus",
-    "description": "Disqus package for Laravel Admin by BFG",
-    "type": "bfg-library",
+    "description": "Disqus package for bfg admin",
+    "type": "bfg-admin-extension",
     "keywords": [
         "laravel",
         "admin",
