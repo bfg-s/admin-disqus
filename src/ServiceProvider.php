@@ -64,7 +64,7 @@ class ServiceProvider extends ExtendProvider
 
         $this->publishes([
             __DIR__ . '/../config/admin-disqus.php' => config_path('admin-disqus.php')
-        ], ['laravel-assets', 'admin-disqus-config']);
+        ], ['admin-disqus-config']);
     }
 
     /**
