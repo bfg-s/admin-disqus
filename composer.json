@@ -20,7 +20,8 @@
     ],
     "prefer-stable": true,
     "require": {
-        "php": "^8.0|^8.1"
+        "php": "^8.0|^8.1",
+        "bfg/admin": "^5.5.2|^6.0"
     },
     "require-dev": {
 
