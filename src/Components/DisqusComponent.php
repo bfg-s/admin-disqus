@@ -17,7 +17,7 @@ class DisqusComponent extends \Admin\Components\Component
         $this->attr('style', 'width: 100%');
     }
 
-    protected function mount()
+    protected function mount(): void
     {
         if ($name = config('admin-disqus.disqus-name')) {
 
@@ -35,6 +35,5 @@ class DisqusComponent extends \Admin\Components\Component
             </script>
             ");
         }
-        $this->callRenderEvents();
     }
 }
